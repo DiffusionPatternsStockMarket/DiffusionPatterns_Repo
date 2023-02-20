@@ -1,9 +1,0 @@
-Team Roles:
-
-Leader: Pablo
-	
-Doer: Xinhui, Constan
-	
-Thinker: Antonio, Xinhui, Constan
-	
-Carer: Evgeny (Github admin.), Jinhao (Trello admin.)
