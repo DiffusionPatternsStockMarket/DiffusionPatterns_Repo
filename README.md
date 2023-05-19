@@ -1,28 +1,24 @@
 
 
-# Diffusion Patterns
+# Team Diffusion Repository. GCD Project III 22/23
 
-## This repository covers the Anomalous Diffusion Patterns project. 
+## This repository covers the Anomalous Diffusion Patterns modelling project. 
 
 ## About
 
-The Anomalous Diffusion Patterns project is built under the scope of the AnDI CHallenge.
+The Anomalous Diffusion Patterns project is built under the scope of the AnDi Challenge 2021.
 
 Team Members:
 
-Evgeny Grachev
-Xinhui Huang-Chen
-Constantino Martínez
-Antonio Pérez
-Pablo Sánchez
-Jinhao Zhang Guo
+Evgeny Grachev \n
+Xinhui Huang-Chen \n
+Constantino Martínez \n
+Antonio Pérez \n
+Pablo Sánchez \n
+Jinhao Zhang Guo \n
 
 
-The AnDi Challenge consisted of 3 tasks, each of them covering a matter of interest for the study of anomalous diffusion. 
-
-The first task consisted of estimating an 𝝰 value that drives the level of diffusion.
-The second task consists of brownian motion classification
-The third task consisted of identifying a chengepoint in the series.
+The AnDi Challenge consisted of 3 tasks, each of them covering a matter of interest for the study of anomalous diffusion. This project focuses
 
 The documentation used can be found in Heuristics and task-specific docs can be found in task specific folders.
 
@@ -32,7 +28,7 @@ Data generation was a key part of the project, the instructions for generating s
 
 ## Models 
 
-Specifications for the models can be found in the Lista folder, containing .h5 files with model hyperparameters. In this folder you can also find the predictions from the models and its respective evaluations.
+Specifications for the models can be found in the Lista folder, containing .h5 files with pre-trained models for AnDi specific tasks. In this folder you can also find the predictions from the models and its respective evaluations.
 
 ## References
 
