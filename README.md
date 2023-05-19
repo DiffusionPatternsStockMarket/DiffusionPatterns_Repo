@@ -1,4 +1,6 @@
 
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPFXrQCarT31BhLslgs8zabgSlsCdA77RT9VcijLX&s)
+
 
 # Team Diffusion Repository. GCD Project III 22/23
 
