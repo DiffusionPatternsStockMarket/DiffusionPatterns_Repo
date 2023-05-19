@@ -8,24 +8,9 @@
 
 The Anomalous Diffusion Patterns project is built under the scope of the AnDi Challenge 2021.
 
-Team Members:
+The AnDi Challenge consisted of 3 tasks, each of them covering a matter of interest for the study of anomalous diffusion. This project focuses on the third of the proposed challenges, which aimes to develop state-of-the-art methodologieschangepoint detection
 
-Evgeny Grachev 
-
-Xinhui Huang-Chen 
-
-Constantino Martínez
-
-Antonio Pérez
-
-Pablo Sánchez 
-
-Jinhao Zhang Guo 
-
-
-The AnDi Challenge consisted of 3 tasks, each of them covering a matter of interest for the study of anomalous diffusion. This project focuses
-
-The documentation used can be found in Heuristics and task-specific docs can be found in task specific folders.
+The documentation used can be found to and task-specific documentation and references can be found in task specific folders (refer to [Task1](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Task1), [Task2](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Task2) and [Task3](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Task3)).
 
 ## Data
 
