@@ -14,10 +14,12 @@ The documentation used can be found to and task-specific documentation and refer
 ## Data
 
 Data generation was a key part of the project, the instructions for generating synthetic data for the tasks can be found in the [Data](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/data) folder. There it can be found Python notebooks that can help you to create synthetic data for the AnDi Challenge Sub-Tasks. The same way, trajectory exploration notebooks can be found as well.
+You can also find the data we used to train our task 3 [models](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Task%203/models) into the [model_data](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/data/model_data) folder, including the synthetic trajectories that we have generated and the predictions of the sliding windows.
 
 ## Models 
 
-Specifications for the models can be found in the [Lista](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Lista) folder, containing .h5 files with pre-trained models for AnDi specific tasks. The same way, code to deliver predictions following this project's approach for AnDi Challenge's Task 3 is available as well.
+Specifications for the models can be found in the [Lista](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Lista) folder, containing .h5 files with pre-trained models for AnDi specific tasks. The same way, code to deliver predictions following this project's approach for AnDi Challenge's Task 3 is available as well. 
+You can also found our own models for the task 3 in the [models](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Task%203/models) folder.
 
 ## References
 
