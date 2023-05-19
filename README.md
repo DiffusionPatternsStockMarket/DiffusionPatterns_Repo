@@ -6,11 +6,25 @@
 
 ## About
 
-The Anomalous Diffusion Patterns project is built under the scope of the AnDI CHallenge, by students of the Universidad Politecnica de Valencia.
+The Anomalous Diffusion Patterns project is built under the scope of the AnDI CHallenge.
 
-The AnDi Challenge consisted of 3 tasks, each of them covering a matter of interest for the study of anomalous diffusion. These tasks consisted on estimating an alpha parameter, walker classification and change-point identification.
+Team Members:
 
-The documentation used can be found in Heuristics and task-specific docs can be found in task specific files.
+Evgeny Grachev
+Xinhui Huang-Chen
+Constantino Martínez
+Antonio Pérez
+Pablo Sánchez
+Jinhao Zhang Guo
+
+
+The AnDi Challenge consisted of 3 tasks, each of them covering a matter of interest for the study of anomalous diffusion. 
+
+The first task consisted of estimating an 𝝰 value that drives the level of diffusion.
+The second task consists of brownian motion classification
+The third task consisted of identifying a chengepoint in the series.
+
+The documentation used can be found in Heuristics and task-specific docs can be found in task specific folders.
 
 ## Data
 
