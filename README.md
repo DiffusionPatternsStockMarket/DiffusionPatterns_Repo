@@ -26,7 +26,7 @@ Alessia Gentili and Giorgio Volpe 2021 J. Phys. A: Math. Theor. 54 314003
 
 Carlo Manzo 2021 J. Phys. A: Math. Theor. 54 334002
 
-Dezhong Li et al 2021 J. Phys A: Math. Theor 54 404003
+Dezhong Li et. al 2021 J. Phys A: Math. Theor 54 404003
 
 Aykut Argun et al 2021 J. Phys A: Math Theor 54 294003
 
