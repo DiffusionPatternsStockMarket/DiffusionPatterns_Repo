@@ -1,5 +1,5 @@
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPFXrQCarT31BhLslgs8zabgSlsCdA77RT9VcijLX&s) ![alt text](https://www.inf.upv.es/www/etsinf/es/wp-content/uploads/2017/02/ETSInf_PRINCIPAL_V-horizontal.png =400x250)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPFXrQCarT31BhLslgs8zabgSlsCdA77RT9VcijLX&s) <img src="https://www.inf.upv.es/www/etsinf/es/wp-content/uploads/2017/02/ETSInf_PRINCIPAL_V-horizontal.png" width="500" height="90"> 
 
 
 # Team Diffusion Repository. GCD Project III 22/23
