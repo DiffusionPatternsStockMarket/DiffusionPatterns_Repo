@@ -32,7 +32,7 @@ Data generation was a key part of the project, the instructions for generating s
 
 ## Models 
 
-Specification for the models can be found in the Lista folder, containing .h5 files with model hyperparameters. In this folder you can also find the predictions from the models and its respective evaluations.
+Specifications for the models can be found in the Lista folder, containing .h5 files with model hyperparameters. In this folder you can also find the predictions from the models and its respective evaluations.
 
 ## References
 
