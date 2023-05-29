@@ -1,9 +1,9 @@
-**TASK 2**
+# TASK 2
 
 The second task consists in classifying a trajectory between the five models mentioned in task 1.
 
 
-**TYPES OF MOVEMENTS:**
+# TYPES OF MOVEMENTS
 
 **CTRW** (Continuous time random walk); characterized by behavior on the walker (particle, DNA or protein chains, stock prices...) that consists in waiting times (that can be modeled as an stochastic process) between each walker movement in whatever dimension.
 <img src="" title="CTRW" />
