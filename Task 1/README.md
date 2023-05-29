@@ -5,7 +5,7 @@ The first task consisted in inferring the 𝝰 exponent of a given tracer path w
 
 
 
-TYPES OF MOVEMENTS:
+**TYPES OF MOVEMENTS:**
 
 CTRW (Continuous time random walk); characterized by behavior on the walker (particle, DNA or protein chains, stock prices...) that consists in waiting times (that can be modeled as an stochastic process) between each walker movement in whatever dimension.
 
