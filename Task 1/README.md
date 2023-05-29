@@ -19,7 +19,7 @@ The first task consisted in inferring the 𝝰 exponent of a given tracer path w
 **ATTM** (Annealed transient time motion), this archetype of Brownian motion is probably the most difficult to model because it shows weak ergodicity breaking, which leads to a Brownian motion variant that closes up the difference gap between an interpretable anomalous diffusion and a random walk. More specifically, this model can be explained by attending to dynamic and waiting times in the sense that the short-term dynamics (short displacement time) are characterized by fast fluctuations in waiting times and step-lengths, while the long-term dynamics are characterized by slower trends and correlations
 <img src="" title="ATTM" />
 
-**SBM **(Scaled Brownian motion), which, as its name says, generates a high no-stationary trajectory based on Gaussian noise following a power law dependence. This motion introduces long-range correlations and the ‘scaling’ property addresses thefactthattheamplitudeoftheBrownianMotionismodifiedbyapower-lawfunction of time.
+**SBM** (Scaled Brownian motion), which, as its name says, generates a high no-stationary trajectory based on Gaussian noise following a power law dependence. This motion introduces long-range correlations and the ‘scaling’ property addresses thefactthattheamplitudeoftheBrownianMotionismodifiedbyapower-lawfunction of time.
 <img src="" title="SBM" />
 
 
