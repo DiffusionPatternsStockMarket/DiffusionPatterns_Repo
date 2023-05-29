@@ -8,6 +8,7 @@ The first task consisted in inferring the 𝝰 exponent of a given tracer path w
 **TYPES OF MOVEMENTS:**
 
 **CTRW** (Continuous time random walk); characterized by behavior on the walker (particle, DNA or protein chains, stock prices...) that consists in waiting times (that can be modeled as an stochastic process) between each walker movement in whatever dimension.
+<img src="/Users/jinhaozhangguo/Desktop/Captura de pantalla 2023-05-29 a las 21.25.44.png" title="CTRW" />
 
 **FBM** (Fractional Brownian Motion), which is a Gaussian process with stationary increments. It is a non-ergodic variation of Brownian Motion and keeping the distance, has certain similarities with autoregressive time-series due to the fact that the non-overlapping increments of FBM are dependent. This means that the value of the process at one time point affects the value of the process at a later time point. This behavior turns out to be not easy to model, so a machine learning driven methodology might be suitable for learning these hidden patterns.
 
