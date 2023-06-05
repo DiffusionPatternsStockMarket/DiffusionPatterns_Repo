@@ -21,6 +21,10 @@ You can also find the data we used to train our task 3 [models](https://github.c
 Specifications for the models can be found in the [Lista](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Lista) folder, containing .h5 files with pre-trained models for AnDi specific tasks. The same way, code to deliver predictions following this project's approach for AnDi Challenge's Task 3 is available as well. 
 You can also found our own models for the task 3 in the [models](https://github.com/DiffusionPatternsStockMarket/DiffusionPatterns_Repo/tree/main/Task%203/models) folder.
 
+## Model Pipeline Tester
+
+Inside this folder you will find everything you need to use our exploratory scripts. You will find two scripts, NN_script.ipynb, with which you can use our neural network model and represent the predictions made by it and Shap_script.ipynb that allows us to predict the changepoint of a trajectory using our XGBoost model and calculates the shap values of the prediction in order to see which variables are more decisive in the prediction made. To do your own tests you will simply have to generate a file that contains the trajectory to study and has the name task3.csv, this file can contain more than one trajectory, but in this case we will have to select which trajectory we are interested in studying.
+
 ## References
 
 Alessia Gentili and Giorgio Volpe 2021 J. Phys. A: Math. Theor. 54 314003
